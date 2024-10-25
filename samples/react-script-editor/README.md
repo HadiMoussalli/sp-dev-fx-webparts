@@ -1,4 +1,4 @@
-
+test
 # Script editor web part for modern pages
 
 This version works only for SharePoint Online. If you want a version for SharePoint on-premises go to [react-script-editor-onprem](../react-script-editor-onprem).
